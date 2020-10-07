@@ -1,0 +1,2 @@
+# husnul
+Belajar hacking
